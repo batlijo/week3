@@ -55,3 +55,16 @@ var people = ['Daniel', 'Alex' 'Brandon']
 // [  ] means index
 // DO NOT CREATE AN ARRAY WITH DIFFERENT TYPES, BOOLEANS, STRINGS, NUMBERS
 //Length is a property that tells you how many elements are in the arrays
+
+//declare and initiate variables at the beginning
+var firstName ="",
+	lasName = "",
+	price = 0,
+	discount = 0,
+	fullPrice = 0,
+	myArray = [],
+	myObject = {};
+// initializing variables provides an idea of the intended use and intended data type
+// for (i = 0; i < cars.length; i++) { 
+    text += cars[i] + "<br>";
+}
